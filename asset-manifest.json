@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/MysecReactApp/static/css/main.f05881da.chunk.css",
-    "main.js": "/MysecReactApp/static/js/main.606dad5d.chunk.js",
-    "main.js.map": "/MysecReactApp/static/js/main.606dad5d.chunk.js.map",
+    "main.css": "/MysecReactApp/static/css/main.51fbba21.chunk.css",
+    "main.js": "/MysecReactApp/static/js/main.74b25930.chunk.js",
+    "main.js.map": "/MysecReactApp/static/js/main.74b25930.chunk.js.map",
     "runtime-main.js": "/MysecReactApp/static/js/runtime-main.368f1577.js",
     "runtime-main.js.map": "/MysecReactApp/static/js/runtime-main.368f1577.js.map",
-    "static/js/2.d7e2cb45.chunk.js": "/MysecReactApp/static/js/2.d7e2cb45.chunk.js",
-    "static/js/2.d7e2cb45.chunk.js.map": "/MysecReactApp/static/js/2.d7e2cb45.chunk.js.map",
+    "static/js/2.f28f8d41.chunk.js": "/MysecReactApp/static/js/2.f28f8d41.chunk.js",
+    "static/js/2.f28f8d41.chunk.js.map": "/MysecReactApp/static/js/2.f28f8d41.chunk.js.map",
     "index.html": "/MysecReactApp/index.html",
-    "static/css/main.f05881da.chunk.css.map": "/MysecReactApp/static/css/main.f05881da.chunk.css.map",
-    "static/js/2.d7e2cb45.chunk.js.LICENSE.txt": "/MysecReactApp/static/js/2.d7e2cb45.chunk.js.LICENSE.txt"
+    "static/css/main.51fbba21.chunk.css.map": "/MysecReactApp/static/css/main.51fbba21.chunk.css.map",
+    "static/js/2.f28f8d41.chunk.js.LICENSE.txt": "/MysecReactApp/static/js/2.f28f8d41.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.368f1577.js",
-    "static/js/2.d7e2cb45.chunk.js",
-    "static/css/main.f05881da.chunk.css",
-    "static/js/main.606dad5d.chunk.js"
+    "static/js/2.f28f8d41.chunk.js",
+    "static/css/main.51fbba21.chunk.css",
+    "static/js/main.74b25930.chunk.js"
   ]
 }
