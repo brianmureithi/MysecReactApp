@@ -18,17 +18,17 @@ display:flex;
 flex-direction:column;
 justify-content:center;
 max-width:1000px;
-margin:# auto;
+margin:0 auto;
 `
 export const Column=styled.div`
 display:flex;
 flex-direction:column;
 text-align:left;
-margin-left:80px;
+margin-left:60px;
 `
 export const Row=styled.div`
 display:grid;
-grid-template-columns: repeat(auto-fill,minmax(230px, 1fr));
+grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
 grid-gap:20px;
 
 @media(max-width:1000px){

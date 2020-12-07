@@ -2,7 +2,7 @@
     background-color: #343230;
     height:40px;
     display:flex;
-    justify-content: start;
+    justify-content: flex-start;
    align-items: center;
     
 }
@@ -16,7 +16,7 @@
 .nav-menu2{
     background: #343230;
    width: 250px;
-   height:78vh;
+   height:150vh;
    display:flex;
  justify-content: center;
    position: fixed;
@@ -67,7 +67,7 @@ background-color :#343230 ;
 width:100% ;
 height:80px ;
 display: flex;
-justify-content: start;
+justify-content:flex-start;
 align-content: center;
 }
 
