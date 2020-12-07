@@ -6,6 +6,14 @@
    align-items: center;
     
 }
+@media(max-width:800px){
+    .nav-menu2{
+      transition:350ms ease-out ;
+      opacity:0;
+    
+    }
+   
+}
 .menu-bars2{
     margin-left:2rem;
     font-size:2rem;
