@@ -24,9 +24,9 @@ export function FooterContainer(){
 
                      <Footer.Column>
                     <Footer.Title>Contact us</Footer.Title>
-                    <Footer.Link href="">Kenya</Footer.Link>
-                    <Footer.Link href="">Nairobi</Footer.Link>
-                    <Footer.Link href="">Support</Footer.Link>
+                    <Footer.Link href="">Kenya-Nairobi</Footer.Link>
+                    <Footer.Link href="">Phone: 0768938573</Footer.Link>
+                    <Footer.Link href="">Email: brianmurithi65@gmail.com</Footer.Link>
                     </Footer.Column>
 
                      <Footer.Column>

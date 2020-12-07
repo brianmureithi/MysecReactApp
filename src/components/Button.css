@@ -6,14 +6,15 @@
     border-radius:4px;
     outline:none;
     border:none;
+    background-color:#55a3cc;
     cursor:pointer;
 
 }
 .btn:hover{
     padding:8px 20px;
     transition:all 0.3s ease-out;
-    background: #fff;
-    color:#6568f4;
+    background: #118ecf;
+    color:#fff;
     transition:250ms;
 
 }
