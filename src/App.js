@@ -30,7 +30,9 @@ function App() {
   <Route   path='/signup'component={Signup}/>
 </Switch>
     </Router>
-  <FooterContainer/>
+  
+   <FooterContainer/>
+
     </>
        
   );
