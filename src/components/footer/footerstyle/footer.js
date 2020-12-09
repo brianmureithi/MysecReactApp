@@ -2,14 +2,16 @@ import styled from 'styled-components'
 
 
 export const Container=styled.div`
+@media(max-width:1800px){
 padding: 80px 60px;
 background:#006e9f;
-margin-top:9vh;
-position:relative;
+top:670px;
+position:relative;}
 
 @media(max-width:800px){
-    padding: 80px 60px;
+ padding: 80px 60px;
 background:#006e9f;
+top:300px;
 position:relative;
 }
 
