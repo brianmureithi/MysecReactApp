@@ -5,13 +5,20 @@ export const Container=styled.div`
 @media(max-width:1800px){
 padding: 80px 60px;
 background:#006e9f;
-top:670px;
+top:620px;
 position:relative;}
 
 @media(max-width:800px){
  padding: 80px 60px;
 background:#006e9f;
-top:300px;
+top:430px;
+margin-top:80px;
+position:fixed;
+}
+@media(max-width:1300px){
+padding: 80px 60px;
+background:#006e9f;
+margin-bottom:0px;
 position:relative;
 }
 
